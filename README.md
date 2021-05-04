@@ -6,7 +6,7 @@
 
 </div>
 <div align=center>
-[![Website](https://img.shields.io/website?color=red&down_color=red&down_message=please%20visit%20again&label=wordpress&style=plastic&up_color=blue&up_message=benjamin%27s%20blog&url=https://suitmyself.wordpress.com)
+[![ToSee](https://img.shields.io/badge/ToSee-v2.0.0-orange)](http://tosee.isecurekr.com/)
 </div>
 
 <!--
