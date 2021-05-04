@@ -6,7 +6,7 @@
 
 </div>
 
-[![WordPress](https://img.shields.io/badge/ToSee-v2.0.0-orange)](https://suitmyself.wordpress.com/)
+[![WordPress](https://img.shields.io/badge/WordPress-Benjamin's Blog-orange)](https://suitmyself.wordpress.com/)
 
 <!--
 **kimkucheol/kimkucheol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
