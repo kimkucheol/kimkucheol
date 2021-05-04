@@ -5,6 +5,10 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimkucheol&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div>
+<div align=center>
+![Website](https://img.shields.io/website?color=red&down_color=red&down_message=please%20visit%20again&label=wordpress&style=plastic&up_color=blue&up_message=benjamin%27s%20blog&url=https%3A%2F%2Fsuitmyself.wordpress.com%2F)
+</div>
+
 <!--
 **kimkucheol/kimkucheol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,5 +23,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![Website](https://img.shields.io/website?color=red&down_color=red&down_message=please%20visit%20again&label=wordpress&style=plastic&up_color=blue&up_message=benjamin%27s%20blog&url=https%3A%2F%2Fsuitmyself.wordpress.com%2F)
